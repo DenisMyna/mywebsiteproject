@@ -7,7 +7,7 @@
   --retro-grey: #3d3d3d;
   --retro-light: #a33737;
   --retro-red: #d32f2f;
-  --retro-white: hsl(271, 73%, 30%);
+  --retro-white: hsl(0, 0%, 100%);
   --retro-shadow: rgba(13, 254, 234, 0.3);
   --retro-letter-spacing: 2px;
 }
